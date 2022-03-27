@@ -1,4 +1,4 @@
-package godid
+package diddoc
 
 type DIDDocument struct {
 	ID                   string               `json:"id"`
