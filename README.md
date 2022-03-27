@@ -1,1 +1,3 @@
-godid
+# godid
+
+## A set of golang DID documents
